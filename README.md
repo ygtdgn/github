@@ -1,4 +1,4 @@
- <p> <h1 align="center"> Hi there, I'm Yigit. <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1> </p>
+ <h1 align="center"> Hi there, I'm Yigit. <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a></h1>
 
 
 <p align = "center">
