@@ -2,8 +2,8 @@
 
 
 <p align = "center">
-Founder @ @overdrive_tr
-Founder & Coach @ @maximusrobotics 
+Founder @overdrive_tr
+Founder & Coach @maximusrobotics 
 SysAdmin & Web Developer
 Game Designer
 </p>
