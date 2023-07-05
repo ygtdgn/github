@@ -2,10 +2,9 @@
 
 
 <p align = "center">
-Founder @overdrive_tr
-Founder & Coach @maximusrobotics 
-SysAdmin & Web Developer
-Game Designer
+Founder @ OverDrive 
+Coach @ MaximusRobotics | 
+IT Specialist
 </p>
 <br/>
 
