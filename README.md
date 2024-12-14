@@ -2,8 +2,7 @@
 
 
 <p align = "center">
-Founder @ OverDrive 
-Coach @ MaximusRobotics | 
+Founder @ Veritfy | 
 IT Specialist
 </p>
 <br/>
